@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Muthabik V M</h1>
 <h3 align="center">I am Full Stack(MERN) developer with highly passionate in coding. I am a self-taught developer. I started coding after my 12th grade.</h3>
 
-<img align="right" alt="" src="https://dribbble.com/shots/3079099-Coding-coding-coding">
+<img align="right" alt="coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthabik&label=Profile%20views&color=0e75b6&style=flat" alt="muthabik" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed muthabik v m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Muthabik V M" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Mohammed Muthabik V M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Muthabik V M" height="30" width="40" /></a>
 <a href="https://instagram.com/wrrzzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wrrzzl" height="30" width="40" /></a>
 </p>
 
