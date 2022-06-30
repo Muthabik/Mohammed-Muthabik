@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammed Muthabik V M</h1>
 <h3 align="center">I am Full Stack(MERN) developer with highly passionate in coding. I am a self-taught developer. I started coding after my 12th grade.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
+<img align="right" alt="" src="https://dribbble.com/shots/3079099-Coding-coding-coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthabik&label=Profile%20views&color=0e75b6&style=flat" alt="muthabik" /> </p>
 
